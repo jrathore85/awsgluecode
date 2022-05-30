@@ -1,9 +1,9 @@
-from awsglue.context import GlueContext
+cfrom awsglue.context import GlueContext
 from awsglue.transforms import *
 from pyspark.context import SparkContext
 
 glueContext = GlueContext(SparkContext.getOrCreate())
 
 print('glueContext:', glueContext)
-print('glueContext  \\hhggj   jkkkkkkkkggkj                          jkc cccgh', glueContext)
+print('glueContext  \\hhggj   jkkkkkkkkggkj      c                    jkc cccgh', glueContext)
 
