@@ -5,5 +5,5 @@ from pyspark.context import SparkContext
 glueContext = GlueContext(SparkContext.getOrCreate())
 
 print('glueContext:', glueContext)
-print('glueContext  \\hhggj   cccbvcccgh', glueContext)
+print('glueContext  \\hhggj   ccc cccgh', glueContext)
 
