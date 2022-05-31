@@ -4,6 +4,6 @@ from pyspark.context import SparkContext
 
 glueContext = GlueContext(SparkContext.getOrCreate())
 
-print('glueContext:', glueContext)
+print('glueContssssssssext:', glueContext)
 print('sdd:', glueContext)
 
