@@ -8,6 +8,6 @@ glueContext = GlueContext(SparkContext.getOrCreate())
 print('glueContext:', glueContext)
 print('this is final code at 7fffffffffffffff June', glueContext)
 print('Before sleep')
-time.sleep(300) 
+time.sleep(60) 
 print('After sleep')
 
